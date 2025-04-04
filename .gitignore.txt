@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs
+*.log
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.*.local
+
+# Diretórios temporários
+tmp/
+temp/
+.cache/
+
+# Diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# Compilados ou build
+dist/
+build/
+
+# VSCode (se você usa)
+.vscode/
+
+# IDEs (tipo WebStorm, etc.)
+.idea/
+
+# Testes
+coverage/
